@@ -1,2 +1,1 @@
-# nightlight
-Kiemax nightlight devolpment repo.
+Simple tile based game engine I wrote in Java, following along with a video series. I used this project to learn object oriented programming, and Java, back in 2017. Kept tinkering with it occasionally, and uploaded it to github in 2019
